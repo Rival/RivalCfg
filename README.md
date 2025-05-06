@@ -1,0 +1,2 @@
+# RivalCfg
+My configs
