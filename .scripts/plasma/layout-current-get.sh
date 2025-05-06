@@ -1,1 +1,2 @@
-/home/andrei/.scripts/plasma/layout-current-get.sh
+#!/bin/bash
+echo $(qdbus org.kde.keyboard /Layouts org.kde.KeyboardLayouts.getLayout)
