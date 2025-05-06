@@ -1,0 +1,1 @@
+/home/andrei/.config/kitty/watcher.py

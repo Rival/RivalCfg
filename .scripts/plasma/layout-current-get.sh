@@ -1,0 +1,1 @@
+/home/andrei/.scripts/plasma/layout-current-get.sh
